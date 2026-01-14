@@ -1,0 +1,47 @@
+# 🏥 Emergency Room Visits Dashboard
+
+This project provides an interactive Emergency Room (ER) Visits Dashboard designed to analyze patient flow,
+wait times, satisfaction scores, and department-level performance using Power BI.
+
+The dashboard helps healthcare administrators identify peak hours, busiest days, patient demographics,
+and operational bottlenecks to improve service efficiency and patient experience.
+
+---
+
+## 🔗 Live Dashboard
+Click the link below to view the live interactive dashboard:
+
+👉 [View Live Emergency Room Visits Dashboard](PASTE_POWER_BI_PUBLISH_TO_WEB_LINK_HERE)
+
+---
+
+## 📊 Key Insights
+- Total Patient Visits Overview
+- Average Wait Time Analysis
+- Patient Satisfaction Score Tracking
+- Visits by Gender, Age Group, and Race
+- Busiest Day & Peak Hour Identification
+- Hourly and Daily Visit Heatmap
+- Department-wise Average Wait Time
+
+---
+
+## 🛠 Tools & Technologies
+- Power BI
+- Healthcare CSV Dataset
+- Data Modeling & DAX
+- Interactive Slicers & Filters
+
+---
+
+## 📸 Dashboard Preview
+![Emergency Room Dashboard](dashboard/screenshots/emergency_room_dashboard.png)
+
+---
+
+## 📌 Use Case
+This dashboard is useful for:
+- Hospital operations monitoring
+- Emergency department optimization
+- Healthcare analytics portfolios
+- Data-driven decision-making in healthcare
